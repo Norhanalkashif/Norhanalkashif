@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Norhanalkashif
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on  backend development with python
+- 🌱 I’m currently learning backend development with python
 - 📫 How to reach me @nooralkashif20@gmail.com
 
 <!---
